@@ -9,3 +9,4 @@ The followig technologies was used to build this:
 * HTML
 * CSS
 * Javascript
+* React.JS
